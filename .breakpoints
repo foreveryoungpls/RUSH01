@@ -1,0 +1,20 @@
+{
+  "files": {
+    "Teo/tester.c": [
+      {
+        "id": "19d731cc-f27a-47e2-945e-0c3827170be7",
+        "line": 111,
+        "version": 1,
+        "index": 1753
+      }
+    ],
+    "main.c": [
+      {
+        "id": "07168cfb-68ad-43b9-b9c0-f0b7be66d188",
+        "line": 27,
+        "version": 947,
+        "index": 367
+      }
+    ]
+  }
+}

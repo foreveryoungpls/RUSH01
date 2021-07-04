@@ -1,0 +1,16 @@
+// Get input from user
+  //Check if input is valid (>0 && <=4, not a decimal, alphabet, etc.)
+  //If valid, send input to solver
+  //If invalid, return error
+
+// Initialize board
+  // Board Coordinates
+  // Check clues
+    // Check if 4, row/collumn will be {1,2,3,4}
+    // Check if 1, adjacent box will be {4}
+    //
+
+
+//Check for Solution
+  //If available, fill the board with the Solution
+  //If impossible, return error
